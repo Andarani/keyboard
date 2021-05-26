@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    background-color: rgb(61, 61, 177);
+    position: absolute;
+    width: 100%;
+    color: aliceblue;
+}
+.form1{
+    float: right;
+    padding: 0px 0px -200px 0px;
+}
+#pw{
+    color: aliceblue;
+}
+.logo{
+    padding: 80px 0px 0px 100px;
+}
